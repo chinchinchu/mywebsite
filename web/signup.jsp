@@ -65,7 +65,6 @@ box-shadow: none;
   transition: 0.25s;
   display: block;
   width: 250px;
-  margin: 0 auto;
 }
 
 .btn:hover {
@@ -126,13 +125,13 @@ box-shadow: none;
             <div class="login-form">
                 <form>
     <label for="id"></label>
-    <input type="text" id="id" name="id" placeholder="Email ID"><br>
+    <input type="text" id="id" name="id" placeholder="example@example.com"><br>
 
     <label for="name"></label>
     <input type="text" id="name" name="name" placeholder="Name"><br>
 
     <label for="mobile"></label>
-    <input type="text" id="mobile" name="mobile" placeholder="Mobile"><br>
+    <input type="text" id="mobile" name="mobile" placeholder="Mobile(max 10)"><br>
     
     <label for="salary"></label>
     <input type="text" id="salary" name="salary" placeholder="Salary"><br>
@@ -146,7 +145,7 @@ box-shadow: none;
     
   </form>
                 <!--<a class="btn" href="#">Sign Up</a>-->
-                <a class="login-link" href="login.jsp">Already have an account?<br>Click to Sign in</a>
+                <a class="login-link" href="login.jsp">Already a member?<br>Click to Sign in</a>
             </div>
         </div>
     </div>
