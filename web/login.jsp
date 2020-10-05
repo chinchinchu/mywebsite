@@ -104,7 +104,7 @@ box-shadow: none;
     </form>
     
                 <a class="login-link" href="lost.jsp">Lost your password?</a>
-                <a class="sign-up" href="signup.jsp">Create Account</a>
+                <a class="sign-up" href="signup.jsp?id="id" &password="password"">Create Account</a>
                 
             </div>
         </div>
