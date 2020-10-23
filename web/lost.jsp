@@ -26,9 +26,7 @@ border-radius: 5px
     <body>
         <div class="login">
             <div class="login-screen">
-                आपका पासवर्ड आपके Email Address पर भेज दिया जाएगा |<br><br>
-        कृपया चिंता न करें!<br><br>
-        शुभरात्रि!<br><br>
+                Don't worry! We'll send you the recovery password through mail!
             </div>
         </div>
        
